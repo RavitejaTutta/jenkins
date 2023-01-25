@@ -1,4 +1,4 @@
-public class JavaTable {
+class JavaTable {
 
     public static void main(String[] args) {
 
